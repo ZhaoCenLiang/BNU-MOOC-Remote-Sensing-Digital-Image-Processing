@@ -1,6 +1,5 @@
 # 中国大学MOOC 北京师范大学
 ## 遥感数字图像处理 Python配套教程代码
-![课程概述](/Fig_1.jpg. "Shiprock")
 ### 目录
 * 项目背景
 * 环境配置
@@ -31,6 +30,8 @@ conda install numpy gdal
 * 本课程教学代码将按照课程大纲分为12个章节，每个章节拥有独立的文件夹。<br>
 * 每一章节的文件夹内部都包含三部分内容（数据文件、代码和说明文档）
 <br>
+
+![课程概述](https://github.com/ZhaoCenLiang/Chinese-University-MOOC-BNU-Remote-Sensing-Digital-Image-Processing/blob/master/Fig_1.jpeg?raw=true")
 
 ### 课程大纲
 #### 第一部分：遥感数字图像处理的数据与方法基础
