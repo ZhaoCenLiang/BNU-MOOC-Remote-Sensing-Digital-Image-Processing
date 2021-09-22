@@ -1,4 +1,5 @@
 # 实验操作1.2  波段运算--以计算NDVI为例
+*代码及帮助文档：何邦科<br> 编辑：赵涔良*
 ## 一、目的
 * 学习利用编程语言python处理遥感数据
 ## 任务
@@ -17,4 +18,4 @@
 ## 六、处理结果
 1. 显示红波段、近红外波段和NDVI影像以及NDVI的频数分布直方图<br>
 ![处理结果](https://github.com/ZhaoCenLiang/Chinese-University-MOOC-BNU-Remote-Sensing-Digital-Image-Processing/blob/master/Section_1_Fundamentals%20of%20Digital%20Image/Fig_1_practice_1.2.jpg)
-3. 保存计算的NDVI影像至指定路径（本文为C:/Users/Lenovo/Desktop）
+2. 保存计算的NDVI影像至指定路径（本文为C:/Users/Lenovo/Desktop）
