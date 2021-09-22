@@ -10,6 +10,9 @@
 * ENVI安装目录下的bhtmref数据
 ## 四、软件工具
 * 本程序需要提前安装好以下安装包：`os`、`numpy`、`spectral`、`matplotlib`
+```python
+conda install -c conda-forge spectral matplotlib
+```
 ## 五、处理流程
 1. 读入bhtmref数据
 2. 获取红波段与近红外波段影像，并计算NDVI
