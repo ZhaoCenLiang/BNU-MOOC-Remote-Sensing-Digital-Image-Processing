@@ -15,5 +15,6 @@
 3. 保存NDVI影像至本地
 4. 显示影像及NDVI直方图
 ## 六、处理结果
-1. 显示红波段、近红外波段和NDVI影像以及NDVI的频数分布直方图
-2. 保存计算的NDVI影像至指定路径（本文为C:/Users/Lenovo/Desktop）
+1. 显示红波段、近红外波段和NDVI影像以及NDVI的频数分布直方图<br>
+![处理结果](https://github.com/ZhaoCenLiang/Chinese-University-MOOC-BNU-Remote-Sensing-Digital-Image-Processing/blob/master/Section_1_Fundamentals%20of%20Digital%20Image/Fig_1_practice_1.2.jpg)
+3. 保存计算的NDVI影像至指定路径（本文为C:/Users/Lenovo/Desktop）
